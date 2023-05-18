@@ -15,6 +15,20 @@ Some projects/tasks taken in Embbedded C and Advanced Embedded C course - on com
   - observer 
   - polling
 - SOLID principles
+
+### Task 0: GPIO
+- 7 segment - STM32
+  
+<video width="640" height="480" controls>
+  <source src="misc\GPIO_7segments.mp4" type="video/mp4">
+</video>
+
+- Keypad - STM32
+  
+<video width="6480" height="480" controls>
+  <source src="misc\GPIO_KeyPad.mp4" type="video/mp4">
+</video>
+
 ### Task 1: Analog to Digital Converter (ADC) for Temperature Sensor
 - ADC in STM32
 ![](misc/ADC.png)
@@ -33,8 +47,13 @@ Some projects/tasks taken in Embbedded C and Advanced Embedded C course - on com
 
 ![](misc/Temp-read-Pooling-pattern.png)
 
+### Task 4 : Observer Pattern
+- Blinking LEDs using Observer Pattern
+<video width="640" height="480" controls>
+  <source src="misc\Observer.mp4" type="video/mp4">
+</video>
 
-### Task 4: Real Time Operating System (RTOS)
+### Task 5: Real Time Operating System (RTOS)
 - FreeRTOS 
 - Timers using LEDs as Ticks
 
